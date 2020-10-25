@@ -7,8 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
- 
-
 .user-cards {
   display: grid;
   grid-gap: 10px;

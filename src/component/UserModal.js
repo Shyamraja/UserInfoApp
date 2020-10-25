@@ -9,7 +9,7 @@ const UserModal = ({
   return (
     <div> 
       <Modal isOpen={isOpen} toggle={toggle}>
-        <ModalHeader toggle={toggle}>Modal title</ModalHeader>
+        <ModalHeader toggle={toggle}>User Information</ModalHeader>
         <ModalBody>
           <div>
             <h2>Personal Information</h2>

@@ -1,10 +1,39 @@
-# Getting Started with Create React App
+<!--
+*** Thanks for checking out this README Template. This template is for user guidance and detail about this project
+-->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- ABOUT THE PROJECT -->
 
-## Available Scripts
+## About The Project
 
-In the project directory, you can run:
+This application is a part of assignment which can show Information of users in Card in Home page. From more info button detail info of users is shown in modal page.
+## Built With
+
+This application shows JSON data with react components . The major technologies that are used to develop projects are as follows
+
+- [React](https://reactjs.org/)
+- [Reactstrap](https://reactstrap.github.io/)
+
+
+## Prerequisites
+
+In order to run this, you should have node in your device. You can first create react app. Then you can install reactstrap and axios while developing further. Open Api for fetching data is [website](https://jsonplaceholder.typicode.com/users).
+
+You can download and install requirements from the following links:
+
+- [Node](https://nodejs.org/en/)
+- [Reactstrap](https://reactstrap.github.io/)
+- [Axios](https://www.npmjs.com/package/axios)
+
+## Run application
+
+ 1.Clone with the repository from https://github.com/Shyamraja/UserInfoApp.git
+
+ 2.Run following command 
+
+ ## npm install
+
+After that Install axios,reactstrap and bootstrap. After that in the prject directory you can run:
 
 ### `npm start`
 
@@ -12,7 +41,15 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
+You will also see if there are any errors present in the console.
+
+
+## App Demo Link
+
+You can also upload the application in netlify. I have uploaded and the live link is
+
+https://mystifying-tereshkova-7465c2.netlify.app/
+
 
 ### `npm test`
 
@@ -61,10 +98,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
